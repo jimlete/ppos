@@ -2,7 +2,7 @@
 The PowerPoint OS, an open source attempt to make a basic, but functional, Operating System that has the looks and feels of a regular OS, however a small file size and build inside PowerPoint.
 
 Please use the stuff we provide in this repository to create your own version, then share it with us! 
-However, give credit to the original (https://jimlete.github.io/ppos) so other people can discover this.
+However, give credit to the original (https://github.com/jimlete/ppos) so other people can discover this.
 Contact me (jameshilditch09@gmail.com) and share the file for your version. Hopefully I can check it out and post it to this repository for people to see!
 
 Created using:
